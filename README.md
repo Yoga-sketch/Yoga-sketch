@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yoga-sketch
-- 👀 I’m interested in analytics
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently pursuing MS in Business Analytics
 - 💞️ I’m looking to collaborate on Data analytics projects
 - 📫 You can reach me on this github account
 
