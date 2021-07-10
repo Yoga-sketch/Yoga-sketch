@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yoga-sketch
+- 👋 Hi, I’m Yoga Ramachandran
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently pursuing MS in Business Analytics
 - 💞️ I’m looking to collaborate on Data analytics projects
